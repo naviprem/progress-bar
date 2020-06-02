@@ -1,6 +1,6 @@
 {
   "name": "@naviprem/progress-bar",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Webcomponent progress-bar following open-wc recommendations",
   "author": "progress-bar",
   "license": "MIT",
